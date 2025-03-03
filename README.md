@@ -4,10 +4,10 @@ haiderportfolio
 =======
 # Frontend Mentor - Single-page developer portfolio solution
 
-This is a solution to the [Single-page developer portfolio challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/singlepage-developer-portfolio-bBVj2ZPi-x). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Single-page developer portfolio challenge on Frontend Mentor](https://github.com/haiderkhann). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
-
+{/*
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshots](#screenshots)
@@ -17,7 +17,7 @@ This is a solution to the [Single-page developer portfolio challenge on Frontend
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-
+*/}
 ## Overview
 
 ### The challenge
@@ -36,15 +36,15 @@ Users should be able to:
 
 Desktop
 
-![](./screenshots/screenshot-desktop.png)
+![](./src/assets/images/image-profile-desktop.jpg)
 
-![](./screenshots/screenshot-desktop-active.png)
+![](./src/assets/images/image-profile-mobile.jpg)
 
 ---
 
 Tablet
 
-![](./screenshots/screenshot-tablet.png)
+![](./src/assets/images/image-profile-tablet.jpg)
 
 ---
 
@@ -54,22 +54,22 @@ Mobile
 
 ### Links
 
-- Solution URL: [https://github.com/mihalymarcell86/single-page-developer-portfolio](https://github.com/mihalymarcell86/single-page-developer-portfolio)
-- Live Site URL: [https://single-page-developer-portfolio-six.vercel.app/](https://single-page-developer-portfolio-six.vercel.app/)
+- Solution URL: [https://github.com/haiderkhann](https://github.com/haiderkhann)
+- Live Site URL: [[https://github.com/haiderkhann](https://github.com/haiderkhann)](https://github.com/haiderkhann)(https://github.com/haiderkhann)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- Sass, [CSSModules](https://github.com/css-modules/css-modules)
+- Sass, [CSSModules](https://github.com/haiderkhann)
 - Mobile-first workflow
 
-- [React](https://reactjs.org/) - JS library
-- [react-scroll](https://www.npmjs.com/package/react-scroll) - React component for animating vertical scrolling
-- [validator](https://www.npmjs.com/package/validator) - A library of string validators and sanitizers.
+- [React](https://github.com/haiderkhann) - JS library
+- [react-scroll](https://github.com/haiderkhann) - React component for animating vertical scrolling
+- [validator](https://github.com/haiderkhann) - A library of string validators and sanitizers.
 
-- [Firebase](https://firebase.google.com/)
+- [Firebase](https://github.com/haiderkhann)
 
 ### What I learned
 
@@ -89,11 +89,11 @@ I learned about `@layer` and used it to decrease specificity of a set of global 
 ### Useful resources
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
-- [React Docs BETA](https://beta.reactjs.org/)
-- [Jack Herrington - UseState: Asynchronous or what?](https://www.youtube.com/watch?v=RAJD4KpX8LA) - This video helped me get a better understanding how React manages state behind the scenes
+- [React Docs BETA](https://github.com/haiderkhann)
+- [Haider abbas github account?](https://github.com/haiderkhann) - This video helped me get a better understanding how React manages state behind the scenes
 
 ## Author
 
-- GitHub - [@mihalymarcell86](https://www.github.com/mihalymarcell86)
-- Frontend Mentor - [@mihalymarcell86](https://www.frontendmentor.io/profile/mihalymarcell86)
+- GitHub - [.](https://github.com/haiderkhann)
+- Frontend Mentor - [.](https://github.com/haiderkhann)
 >>>>>>> e91a4f7 (project complete)
